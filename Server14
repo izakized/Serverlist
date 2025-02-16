@@ -10,11 +10,12 @@ local selectedMode = "normal" -- change ur mode here
 local words = {
     "noob",
     "taco",
+    "hypothermic",
     "icecream",
     "roblox",
     "stop",
     "butter",
-    "Archeologist",
+    "archaeologist",
     "basketball",
     "trophy",
     "fjord",
